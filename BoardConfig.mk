@@ -5,7 +5,7 @@
 #
 
 # Inherit from sdm660-common
--include device/asus/sdm660-common/BoardConfigCommon.mk
+include device/asus/sdm660-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/asus/X01BD
 
@@ -20,4 +20,4 @@ TARGET_BOOTLOADER_BOARD_NAME := sdm660
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
--include vendor/asus/X01BD/BoardConfigVendor.mk
+include vendor/asus/X01BD/BoardConfigVendor.mk
