@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2020 The dotOS Project
+# Copyright (C) 2020 The Havoc-OS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
